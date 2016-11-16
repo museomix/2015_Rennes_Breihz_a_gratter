@@ -1,6 +1,8 @@
 BREIZH A GRATTER
 ----------------
 
+Dépot original : https://framagit.org/tounoki/breizhagratter
+
 breizhagratter est un prototype distribué sous la licence GPL V3.
 
 Ses auteurs sont Nicolas Poulain aka tounoki, Rosine Bernez, Adrien Le Beller, Natasha Stocchi, Jerome Garnier, Alice Fernandez, Angélique Robert
